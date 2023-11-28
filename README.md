@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adpen23
+- 👀 I’m interested in AI and Metaverse
+- 🌱 I’m currently learning Scheme and Python coding language
+- 📫 How to reach me, ig: pncea23
